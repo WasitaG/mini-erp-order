@@ -1,4 +1,4 @@
-# Mini ERP Order System
+# Simple ERP Order System
 ระบบจัดการคำสั่งซื้อสินค้า (Mini ERP) พัฒนาด้วยภาษา Python และฐานข้อมูล SQLite
 
 ## คุณสมบัติของระบบ
